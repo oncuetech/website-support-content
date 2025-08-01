@@ -1,0 +1,17 @@
+[
+  {
+    "id": "article-001",
+    "title": "Displaying Exhibits on Air",
+    "content": "### Displaying Exhibits in OnCue\n\nPresent documents seamlessly with OnCue's On-Air feature.\n\n#### Steps to Display:\n1. Select the document or exhibit\n2. Click **On-Air**\n3. Use annotation tools if needed\n\n![Exhibit Setup](https://oncuetech.slite.page/api/attachments.redirect?id=a1227a0e-1d90-4363-80f2-822cce29ce11)\n\n---\n\nExplore additional tools in the OnCue Workflow Ribbon."
+  },
+  {
+    "id": "article-002",
+    "title": "Adding Multimedia Files",
+    "content": "### Supported Multimedia Files\n\nOnCue allows a variety of video and audio formats:\n\n- **Video**: mp4, avi, mpg, mov\n- **Audio**: mp3, wav, m4a\n\nTo add files:\n- Use the **Add Media** tab\n- Drag and drop into the Audiovisuals panel\n\n![Adding Files](https://oncuetech.slite.page/api/attachments.redirect?id=c1277e4b-cb27-43f6-9977-07aaf9298694)\n"
+  },
+  {
+    "id": "article-003",
+    "title": "About Synchronized Transcripts",
+    "content": "### Synchronized Transcripts\n\nTo play deposition video, you'll need a sync file.\n\n- Accepted formats: `.mdb`, `.cms`, `.xml` (OnCue only)\n- No sync? You can still generate reports using plain-text `.txt`\n\n![Transcript Sync](https://oncuetech.slite.page/api/attachments.redirect?id=4d884ad9-3494-4277-8089-42acae348e05)\n"
+  }
+]
